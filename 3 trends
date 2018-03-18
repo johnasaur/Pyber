@@ -1,0 +1,7 @@
+Written description of three observable trends based on the data:
+
+1.	The most rides appear to be in urban areas, with rural being the least amount, though the rural areas seem to have the highest average fares per ride. Suburban average fares are somewhat mid-range between urban and rural areas.
+2.	The amount of drivers is the least in rural areas, which likely explains as to why the fare percentages are higher – higher demand when supply is lower. Though urban city type still leads when it comes to number of drivers and amount of rides given. 
+3.	Though the amount of rides and the drivers differ greatly between rural, urban and suburban, interestingly, the average price remains around the same number for all three city types.
+
+
